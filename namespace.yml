@@ -4,4 +4,4 @@ metadata:
   name: expense
   labels:
     project: expense
-    environment: devapiVersion: v1
+    environment: dev
